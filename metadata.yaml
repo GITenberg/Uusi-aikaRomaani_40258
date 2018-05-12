@@ -20,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Santeri_Alkio
     - http://fi.wikipedia.org/wiki/Santeri_Alkio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40258#Uusi-aikaRomaani
 gutenberg_issued: '2012-07-16'
 gutenberg_type: Text
 identifiers:
