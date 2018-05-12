@@ -1,0 +1,35 @@
+_repo: Uusi-aikaRomaani_40258
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alkio, Santeri
+    aliases:
+    - Heikkiläinen, Iiska
+    - Paukkunen, Jussi
+    - Filander, Santeri
+    - Heikkilainen, Iiska
+    - Filander, Aleksander
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '5319'
+    url: http://www.gutenberg.org/2009/agents/5319
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Santeri_Alkio
+    - http://fi.wikipedia.org/wiki/Santeri_Alkio
+description: ''
+gutenberg_issued: '2012-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40258'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PH'
+title: 'Uusi aika: Romaani'
+url: http://www.gutenberg.org/ebooks/40258
